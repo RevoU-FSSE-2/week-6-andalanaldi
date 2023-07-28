@@ -25,45 +25,36 @@ contact author at andalanaldi@gmail.com
 ## Documentation Update 1: Docker Installations
 
 1. Download Docker installer.
-![Download Docker installer ]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/1-google-docker-dwd.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/2-docker-dwd-win.jpg)
+![Download Docker installer ](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/1-google-docker-dwd.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/2-docker-dwd-win.jpg?raw=true)
 2. Run Docker installer.
-![Install Docker]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-1-dd-installer.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-2-open-dd-installer.jpg) 
+![Install Docker](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-1-dd-installer.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-2-open-dd-installer.jpg?raw=true) 
 3. Wait for the installation process
-![Wait for the process]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-installprocess-docker.jpg)
+![Wait for the process](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-installprocess-docker.jpg?raw=true)
 4. Read and accept Docker Subscription Service Agreement
-![Service Agreement]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-opening-docker.jpg)
+![Service Agreement](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-opening-docker.jpg?raw=true)
 5. Wait for Docker Engine to start
-![Start Docker Engine]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-1-start-docker.jpg)
+![Start Docker Engine](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-1-start-docker.jpg?raw=true)
 6. Download and update Windows Subsystem Linux kernel version for windows user
-![Windows Subsystem Linux]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-2-need-wsl2.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-linux-kernel-updtpkg.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-wsl2-msi.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-setup.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-statusins.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-finish.jpg)
+![Windows Subsystem Linux](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-2-need-wsl2.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-linux-kernel-updtpkg.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-wsl2-msi.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-setup.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-statusins.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-finish.jpg?raw=true)
 7. Get windows terminal from Microsoft Store for windows user if needed and run the terminal.
-![Windows Terminal]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-0-srch-winterm.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-1-winstore-get.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-2-get-dwd.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-3-terminal-srch.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-4-smartscreen-justrun.jpg)
+![Windows Terminal](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-0-srch-winterm.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-1-winstore-get.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-2-get-dwd.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-3-terminal-srch.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-4-smartscreen-justrun.jpg?raw=true)
 8. Set WSL2 as Default in the terminal
-![Set Windows Subsystem Linux 2 as default]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-set-wsl2-def.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-5-win-terminal-wsl2def.jpg)
+![Set Windows Subsystem Linux 2 as default](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-set-wsl2-def.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-5-win-terminal-wsl2def.jpg?raw=true)
 9. Optional
-![WSL Extention, Docker Autostart and Quit Docker]
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-wsl-ext-vscode.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-prv-autostart-docker.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/Docker-icon.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-iconi.jpg)
-(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-quit.jpg)
+![WSL Extention, Docker Autostart and Quit Docker](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-wsl-ext-vscode.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-prv-autostart-docker.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/Docker-icon.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-iconi.jpg?raw=true)
+![](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-quit.jpg?raw=true)
