@@ -144,7 +144,7 @@ node_modules
 npm-debug.log
 ```
 
-## Create Docker Image, Run Image(Container), and Test Localhost
+## Documentation Update 3: Create Docker Image, Run Image(Container), and Test Localhost
 
 1. Open Windows Terminal, Change directory into a folder that has file needed to build docker image and container. **Docker application should be opened too.**
 ![Change Directory](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/1-terminal-cd.jpg?raw=true)
