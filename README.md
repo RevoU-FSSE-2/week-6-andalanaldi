@@ -26,38 +26,44 @@ contact author at andalanaldi@gmail.com
 
 1. Download Docker installer.
 ![Download Docker installer ]
-(https://)
-()
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/1-google-docker-dwd.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/2-docker-dwd-win.jpg)
 2. Run Docker installer.
 ![Install Docker]
-() 
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-1-dd-installer.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-2-open-dd-installer.jpg) 
 3. Wait for the installation process
 ![Wait for the process]
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-installprocess-docker.jpg)
 4. Read and accept Docker Subscription Service Agreement
-![Install Docker]
-()
+![Service Agreement]
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/3-opening-docker.jpg)
 5. Wait for Docker Engine to start
 ![Start Docker Engine]
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-1-start-docker.jpg)
 6. Download and update Windows Subsystem Linux kernel version for windows user
 ![Windows Subsystem Linux]
-()
-()
-()
-()
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/4-2-need-wsl2.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-linux-kernel-updtpkg.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-dwd-wsl2-msi.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-setup.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-statusins.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/6-wsl-finish.jpg)
 7. Get windows terminal from Microsoft Store for windows user if needed and run the terminal.
 ![Windows Terminal]
-()
-()
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-0-srch-winterm.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-1-winstore-get.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-2-get-dwd.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-3-terminal-srch.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-4-smartscreen-justrun.jpg)
 8. Set WSL2 as Default in the terminal
 ![Set Windows Subsystem Linux 2 as default]
-()
-()
-
-
-
-
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-set-wsl2-def.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-5-win-terminal-wsl2def.jpg)
+9. Optional
+![WSL Extention, Docker Autostart and Quit Docker]
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/5-wsl-ext-vscode.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/7-prv-autostart-docker.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/Docker-icon.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-iconi.jpg)
+(https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-install-img/docker-quit.jpg)
