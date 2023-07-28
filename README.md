@@ -143,3 +143,28 @@ CMD ["node", "index.js"]
 node_modules
 npm-debug.log
 ```
+
+## Create Docker Image, Run Image(Container), and Test Localhost
+
+1. Open Windows Terminal, Change directory into a folder that has file needed to build docker image and container. **Docker application should be opened too.**
+![Change Directory](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/1-terminal-cd.jpg?raw=true)
+
+2. See list of directory to recheck the files in it. If it has the correct file then proceed.
+![List of folder](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/2-ls-dockerblt.jpg?raw=true)
+
+3. Build a node.js image in Docker and give a tag name
+![Build a docker image](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/3-dockerblt-img.jpg?raw=true)
+
+4. Run docker image, specify port to open its image isolation into pc and browser. Container id shall be produced 
+![Run docker image](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/4-dockerimg-ps-run.jpg?raw=true)
+
+5. Check container id using "docker ps" command and localhost link via "docker logs" command and then execute it
+![Container id, logs and execution](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/5-dockerps-logs-execbinbash.jpg?raw=true)
+
+6. If command bin/bash cannot be run in previous command then use bin/sh
+![Execution option](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/6-docker-exec-binsh.jpg?raw=true)
+
+7. Ctrl + click localhost link that previously produced by "docker logs" command and change it to localhost:3002
+![Localhost display](https://github.com/RevoU-FSSE-2/week-6-andalanaldi/blob/main/Docker-img-contain-localhost/7-localhost-3002.jpg?raw=true)
+
+**Voila ! the node.js greetings is opned in localhost:3002**
